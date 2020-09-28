@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "363935465916",
+    "firebase_url": "https://practicedemo-7c8c6.firebaseio.com",
+    "project_id": "practicedemo-7c8c6",
+    "storage_bucket": "practicedemo-7c8c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363935465916:android:bc118d45e393e13d6cabb9",
+        "android_client_info": {
+          "package_name": "com.milanapp.practicedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363935465916-64kr1cjr3cdnujvv1j72equm61nlfog9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzd7HLGHUvMOhdX_UVyJUvCMaBvQfCtmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363935465916-64kr1cjr3cdnujvv1j72equm61nlfog9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
